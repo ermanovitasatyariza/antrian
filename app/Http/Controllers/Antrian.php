@@ -13,5 +13,6 @@ class Antrian extends Controller
         $data['antri_teller2'] = 0;
         $data['antri'] = "-";
         return view('antrian'.$data);
+        //COBA AJA SENDIRI
     }
 }
